@@ -1,0 +1,3154 @@
+USE tree;
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (177416, 1, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (29426, 1, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (71543, 1, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (82212, 1, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (55500, 2, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (38379, 2, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (64320, 2, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (55519, 3, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (160173, 3, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (157216, 3, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (119900, 4, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (178350, 4, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (83553, 4, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (151304, 5, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (88320, 5, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (89681, 5, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (25230, 6, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (5276, 6, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (236997, 6, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (93601, 6, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (57151, 7, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (52903, 7, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (125718, 8, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (227987, 8, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (162501, 8, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (155551, 8, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (72181, 8, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (125086, 9, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (81849, 9, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (238845, 9, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (133748, 10, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (166783, 10, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (52963, 10, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (72393, 10, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (202989, 10, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (88459, 11, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (177016, 11, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (4859, 11, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (224843, 12, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (61854, 12, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (235736, 13, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (251883, 13, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (130469, 14, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (242970, 14, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (8263, 14, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (97602, 14, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (188594, 14, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (108366, 15, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (162767, 15, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (116147, 15, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (206441, 16, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (40181, 16, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (73830, 16, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (76862, 16, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (171682, 16, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (180244, 17, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (191026, 17, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (157919, 17, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (212385, 17, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (178223, 17, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (242519, 18, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (17426, 18, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (219033, 19, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (100843, 19, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (55968, 19, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (162867, 20, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (244829, 20, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (116670, 20, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (241982, 20, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (95824, 21, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (70271, 21, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (202301, 22, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (112251, 22, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (209528, 23, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (66876, 24, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (173235, 24, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (141134, 25, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (230165, 25, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (246410, 25, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (47891, 25, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (15340, 26, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (173574, 26, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (51861, 26, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (88057, 26, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (195573, 27, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (151209, 27, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (174080, 27, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (141446, 28, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (104623, 28, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (56342, 28, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (166507, 29, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (197563, 29, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (88470, 30, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (97657, 31, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (14224, 31, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (201519, 32, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (151527, 32, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (109881, 32, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (221063, 32, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (193982, 32, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (59137, 33, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (46231, 33, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (23761, 33, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (239435, 33, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (67268, 34, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (205369, 34, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (229550, 35, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (11982, 35, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (185592, 36, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (37226, 36, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (233348, 36, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (124890, 36, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (166818, 37, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (236984, 37, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (136074, 37, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (86920, 38, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (91643, 38, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (193924, 39, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (105599, 40, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (58262, 40, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (165007, 40, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (18121, 41, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (221063, 41, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (180786, 41, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (152027, 41, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (116882, 41, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (84210, 42, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (227966, 42, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (206780, 42, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (33794, 43, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (121470, 43, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (5090, 43, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (162180, 43, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (136125, 44, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (108547, 44, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (12265, 44, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (237647, 44, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (88283, 44, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (113593, 45, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (99663, 45, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (52956, 45, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (183503, 45, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (10273, 46, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (135447, 46, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (34955, 46, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (151036, 46, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (143095, 47, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (19885, 47, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (113770, 47, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (154596, 47, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (6997, 47, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (165255, 48, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (243069, 48, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (56888, 48, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (78503, 48, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (104917, 49, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (175217, 49, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (121381, 50, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (241844, 50, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (36850, 50, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (101159, 50, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (32236, 51, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (81588, 51, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (179630, 51, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (75046, 51, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (169622, 51, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (129026, 52, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (199673, 52, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (196579, 53, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (48163, 53, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (228109, 53, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (195360, 54, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (7472, 54, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (233873, 54, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (241295, 54, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (98359, 54, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (213670, 55, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (228453, 56, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (187014, 56, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (165514, 56, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (242828, 56, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (50961, 57, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (92637, 57, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (247186, 57, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (210302, 57, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (210686, 57, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (113613, 58, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (237570, 58, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (97543, 58, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (246121, 58, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (90372, 58, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (212670, 59, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (236669, 59, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (49883, 59, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (214494, 59, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (42326, 59, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (209501, 60, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (174081, 60, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (63305, 61, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (89811, 61, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (216044, 62, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (124496, 62, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (247428, 63, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (95500, 63, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (144190, 63, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (117057, 63, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (22403, 64, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (1338, 64, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (216381, 64, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (234572, 65, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (73328, 65, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (64562, 65, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (236066, 65, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (154037, 66, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (188889, 66, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (142355, 66, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (182702, 66, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (174462, 67, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (112344, 67, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (115575, 67, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (84027, 67, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (58287, 67, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (84402, 68, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (139809, 68, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (225617, 68, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (134933, 69, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (189711, 69, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (12946, 69, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (151768, 69, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (16504, 70, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (145334, 70, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (18527, 70, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (230004, 70, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (2249, 71, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (52667, 72, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (57880, 72, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (161167, 73, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (241686, 73, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (1552, 73, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (181238, 73, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (31483, 74, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (79727, 74, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (216029, 75, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (223692, 76, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (42623, 76, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (13890, 76, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (30757, 77, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (1741, 78, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (18569, 79, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (24075, 80, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (28170, 80, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (239588, 80, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (170591, 80, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (122414, 81, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (56830, 81, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (109030, 81, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (68638, 82, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (231063, 83, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (120961, 83, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (26059, 83, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (114784, 83, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (195841, 84, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (161837, 84, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (54034, 84, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (179679, 84, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (48446, 85, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (245715, 85, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (121006, 85, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (110393, 85, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (61885, 86, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (153007, 86, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (134144, 86, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (115305, 86, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (186383, 86, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (145737, 87, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (145688, 87, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (15508, 87, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (80042, 87, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (125502, 88, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (250624, 89, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (71174, 89, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (231090, 89, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (193416, 89, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (26299, 90, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (222901, 90, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (16726, 91, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (72384, 91, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (208928, 91, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (62814, 92, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (146112, 93, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (76898, 94, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (104259, 95, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (57415, 95, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (248768, 95, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (209926, 95, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (123944, 95, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (24824, 96, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (221469, 97, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (102595, 97, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (48879, 97, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (20034, 98, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (241983, 98, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (96155, 99, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (105764, 99, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (48954, 99, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (102219, 100, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (112422, 101, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (96196, 102, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (223114, 102, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (31302, 102, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (194993, 102, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (99097, 102, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (33487, 103, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (145202, 103, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (155094, 103, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (27544, 103, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (135925, 103, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (104106, 104, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (21032, 104, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (95654, 104, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (177571, 104, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (229578, 104, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (131396, 105, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (175067, 105, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (193371, 105, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (155255, 106, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (1247, 106, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (137032, 107, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (163054, 107, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (120494, 107, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (100185, 108, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (110612, 108, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (99083, 109, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (179796, 109, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (178011, 109, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (21002, 110, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (90202, 111, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (3220, 112, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (137984, 113, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (134141, 113, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (16878, 113, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (200785, 113, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (7306, 113, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (120805, 114, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (235030, 114, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (106926, 114, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (192993, 114, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (200698, 114, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (40896, 115, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (175927, 115, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (122716, 115, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (153575, 115, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (77123, 116, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (188051, 116, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (33587, 116, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (6329, 116, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (247051, 117, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (240011, 117, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (88295, 117, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (189731, 117, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (238081, 118, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (49264, 118, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (92737, 118, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (92652, 119, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (203427, 119, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (5077, 119, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (100439, 119, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (134624, 120, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (61491, 121, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (188123, 121, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (198616, 121, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (184272, 122, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (153869, 122, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (129913, 122, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (127488, 123, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (117071, 123, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (91144, 123, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (53991, 123, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (96493, 124, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (175868, 124, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (10889, 125, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (189505, 125, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (177766, 125, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (245235, 125, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (167701, 125, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (123147, 126, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (14308, 126, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (15133, 126, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (78573, 126, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (132008, 126, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (68187, 127, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (71115, 127, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (1787, 127, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (207293, 127, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (192627, 127, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (225402, 128, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (64512, 128, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (155227, 128, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (234890, 128, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (157287, 128, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (230993, 129, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (192999, 129, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (60359, 129, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (202502, 129, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (137432, 129, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (84017, 130, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (136835, 130, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (109720, 131, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (198489, 131, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (160420, 131, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (17278, 132, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (47521, 132, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (195652, 132, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (180837, 133, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (168433, 134, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (123276, 134, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (242724, 134, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (236004, 134, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (27923, 134, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (151792, 135, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (19767, 136, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (183381, 136, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (115091, 136, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (123345, 137, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (229211, 137, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (32077, 138, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (65769, 138, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (161662, 139, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (111023, 139, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (152961, 139, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (101658, 140, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (162279, 140, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (13053, 140, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (82028, 141, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (49514, 141, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (230962, 142, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (209040, 143, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (42497, 143, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (81278, 143, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (206348, 143, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (109906, 143, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (109971, 144, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (182061, 144, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (83329, 144, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (127273, 144, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (227351, 145, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (128763, 146, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (95944, 146, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (224653, 146, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (132084, 147, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (204227, 147, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (197502, 147, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (227298, 147, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (18147, 147, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (165551, 148, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (227437, 149, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (60050, 149, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (157481, 150, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (217553, 151, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (54916, 152, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (134029, 152, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (18553, 152, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (165274, 152, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (72833, 153, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (120734, 153, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (178944, 154, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (152119, 154, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (74928, 154, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (161604, 154, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (214906, 154, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (207107, 155, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (250387, 156, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (205624, 156, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (181182, 156, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (251714, 157, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (103049, 157, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (39113, 157, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (122359, 157, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (60797, 158, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (128246, 158, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (37973, 158, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (22749, 158, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (141691, 159, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (246612, 159, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (32354, 159, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (192348, 159, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (209103, 160, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (93590, 160, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (160808, 160, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (119831, 160, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (247511, 161, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (116746, 161, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (213871, 161, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (172133, 161, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (35499, 162, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (23283, 163, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (98551, 164, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (16935, 164, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (149334, 164, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (38980, 164, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (124638, 165, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (72767, 166, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (24641, 166, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (31053, 166, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (25796, 166, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (239359, 166, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (213423, 167, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (107472, 167, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (200602, 167, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (210177, 168, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (169196, 168, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (108015, 169, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (212655, 169, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (188697, 169, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (141179, 169, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (239521, 169, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (239472, 170, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (111237, 170, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (155041, 170, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (170911, 170, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (224326, 170, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (59127, 171, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (244060, 171, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (94689, 171, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (250125, 172, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (92983, 172, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (82468, 173, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (164624, 174, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (218964, 174, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (131319, 174, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (133706, 175, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (197600, 175, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (182895, 175, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (5504, 175, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (121373, 175, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (127196, 176, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (125139, 176, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (134534, 177, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (243891, 177, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (157360, 177, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (1650, 178, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (121985, 178, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (157468, 178, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (65703, 179, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (145773, 179, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (99953, 179, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (106744, 180, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (233658, 180, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (249221, 180, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (48519, 180, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (220127, 180, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (212551, 181, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (36346, 181, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (204250, 181, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (61278, 181, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (192224, 181, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (2045, 182, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (131692, 182, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (200206, 183, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (176817, 183, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (144694, 183, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (228236, 184, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (235866, 184, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (67901, 185, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (50994, 185, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (233631, 185, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (57414, 186, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (210737, 187, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (95923, 187, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (133621, 187, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (31133, 188, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (124720, 188, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (34206, 189, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (248345, 189, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (60816, 190, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (5112, 190, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (216571, 190, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (89399, 190, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (10327, 191, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (222054, 191, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (32273, 192, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (172017, 192, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (50979, 193, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (12736, 194, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (405, 194, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (186538, 194, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (225279, 194, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (129490, 194, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (158807, 195, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (33336, 195, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (39670, 196, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (231186, 197, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (144435, 197, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (74331, 198, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (59477, 198, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (199883, 198, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (222778, 199, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (94561, 200, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (162931, 201, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (123023, 201, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (107640, 202, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (180065, 202, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (39982, 203, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (118687, 203, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (103145, 203, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (102852, 204, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (232586, 205, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (153037, 205, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (125582, 206, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (200395, 206, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (98653, 206, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (216826, 207, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (159780, 208, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (66883, 209, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (187932, 210, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (150481, 210, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (16581, 211, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (71089, 211, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (93873, 211, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (2687, 212, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (189561, 212, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (2289, 213, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (180528, 214, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (67517, 215, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (73695, 215, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (168664, 215, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (68131, 215, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (133563, 216, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (148576, 216, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (227674, 216, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (192295, 216, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (103059, 217, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (214421, 217, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (204996, 217, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (134041, 218, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (173834, 218, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (224941, 218, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (198204, 218, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (24999, 219, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (157015, 219, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (243684, 219, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (98248, 219, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (155288, 219, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (219810, 220, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (97285, 220, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (90565, 221, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (138947, 222, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (238370, 222, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (24907, 222, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (134502, 222, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (4503, 222, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (30491, 223, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (143971, 223, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (74130, 224, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (154470, 224, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (27514, 224, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (190498, 224, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (217794, 224, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (147021, 225, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (132786, 226, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (201788, 226, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (98907, 227, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (227819, 227, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (201631, 227, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (30275, 227, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (43571, 228, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (36365, 228, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (17651, 228, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (216474, 229, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (85357, 229, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (131316, 229, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (20145, 229, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (35882, 230, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (150970, 230, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (4390, 230, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (168897, 231, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (110651, 232, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (149239, 232, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (226343, 232, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (71428, 232, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (106540, 233, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (201364, 233, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (101419, 233, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (39454, 233, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (143311, 234, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (180678, 234, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (164685, 234, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (105232, 234, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (147852, 234, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (66396, 235, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (66268, 235, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (62944, 235, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (130578, 235, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (220631, 236, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (236678, 236, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (222405, 237, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (40480, 238, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (54637, 238, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (139130, 238, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (126709, 238, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (107828, 239, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (2951, 239, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (69780, 240, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (122608, 240, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (122873, 240, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (173218, 240, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (205409, 241, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (234559, 241, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (92980, 241, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (135918, 241, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (234801, 241, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (122197, 242, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (38620, 242, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (181215, 242, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (5979, 243, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (209984, 243, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (86420, 243, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (18826, 243, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (233778, 243, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (9759, 244, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (80597, 244, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (218681, 245, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (84716, 245, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (104329, 245, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (97354, 246, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (25919, 247, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (45176, 248, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (22386, 248, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (249377, 248, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (109394, 249, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (2593, 249, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (51630, 250, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (246243, 250, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (15550, 250, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (178314, 251, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (154989, 251, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (99858, 251, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (109526, 251, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (117848, 251, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (174731, 252, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (120321, 252, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (103450, 253, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (110380, 253, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (123702, 253, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (191257, 253, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (208636, 254, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (49615, 255, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (6620, 256, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (214943, 256, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (57241, 256, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (248396, 256, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (162223, 257, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (102694, 257, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (24169, 257, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (78252, 258, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (238066, 258, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (146686, 258, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (104553, 259, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (250798, 259, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (143418, 259, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (246959, 260, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (206420, 260, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (81015, 261, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (5308, 262, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (194494, 262, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (168152, 262, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (91191, 262, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (246430, 263, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (113169, 263, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (94969, 263, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (153083, 263, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (106319, 263, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (22502, 264, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (249269, 264, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (41692, 264, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (147739, 264, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (199318, 265, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (120967, 265, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (94303, 266, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (153058, 266, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (197913, 266, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (128111, 267, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (167714, 267, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (214597, 267, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (66360, 267, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (177650, 267, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (167086, 268, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (167826, 268, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (174777, 269, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (223160, 269, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (82186, 270, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (6797, 270, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (25907, 271, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (149347, 272, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (27403, 272, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (210331, 273, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (160150, 273, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (216518, 273, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (125332, 273, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (106960, 273, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (75452, 274, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (233557, 274, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (81439, 274, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (145961, 274, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (94583, 275, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (27708, 276, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (28754, 277, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (21537, 277, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (205171, 277, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (224881, 278, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (96595, 278, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (29177, 278, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (5038, 278, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (215217, 278, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (179204, 279, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (223492, 279, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (35194, 279, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (180983, 279, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (68050, 280, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (249214, 280, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (175252, 280, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (118629, 281, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (2148, 282, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (166791, 282, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (180589, 282, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (219780, 283, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (234133, 283, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (145146, 283, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (113355, 284, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (216, 284, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (135636, 284, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (114545, 284, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (26127, 284, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (30982, 285, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (194164, 285, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (121311, 286, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (1722, 286, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (205329, 286, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (154136, 286, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (120716, 286, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (119059, 287, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (174420, 287, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (166829, 287, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (15708, 288, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (200169, 288, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (75527, 289, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (205891, 289, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (91831, 290, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (169662, 291, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (85349, 291, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (46253, 291, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (131266, 292, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (6493, 292, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (41849, 293, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (141540, 293, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (83787, 293, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (161627, 293, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (201864, 294, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (45092, 295, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (148066, 295, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (6776, 295, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (8235, 295, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (28353, 296, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (80249, 296, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (100282, 297, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (95499, 297, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (211291, 297, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (40400, 297, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (111100, 297, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (243829, 298, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (127065, 298, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (225095, 299, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (100586, 299, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (49752, 299, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (132302, 299, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (51504, 300, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (128506, 300, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (103758, 301, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (58847, 301, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (237648, 301, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (189747, 301, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (74995, 302, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (170689, 302, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (66677, 302, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (27218, 302, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (36504, 303, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (147419, 304, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (217245, 305, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (54020, 305, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (167339, 305, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (220815, 306, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (172989, 306, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (135135, 306, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (55006, 306, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (201002, 306, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (12456, 307, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (81752, 307, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (104727, 307, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (29015, 308, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (171599, 308, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (231715, 309, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (37623, 309, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (14822, 309, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (171947, 310, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (227729, 310, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (141083, 310, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (43504, 310, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (43622, 310, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (95529, 311, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (78711, 311, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (17189, 311, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (11518, 311, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (148899, 311, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (106251, 312, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (94864, 312, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (176379, 312, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (171592, 312, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (30922, 312, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (31405, 313, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (137254, 313, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (121968, 313, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (168376, 313, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (106723, 314, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (22720, 314, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (127062, 314, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (163017, 315, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (14136, 315, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (45204, 315, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (40252, 315, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (38149, 316, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (12577, 317, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (48535, 317, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (224223, 317, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (25362, 317, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (243907, 317, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (213507, 318, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (182880, 318, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (83001, 319, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (202479, 319, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (173386, 319, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (165041, 320, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (2872, 320, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (19363, 320, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (74619, 320, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (152122, 321, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (64362, 321, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (1849, 321, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (46041, 321, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (226027, 322, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (85634, 322, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (227029, 323, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (68179, 323, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (32851, 323, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (108347, 324, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (170158, 324, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (96076, 324, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (69174, 325, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (196068, 325, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (181350, 326, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (241432, 326, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (242528, 326, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (211364, 327, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (127833, 327, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (207646, 327, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (127613, 327, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (146616, 328, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (120181, 328, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (195392, 328, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (219536, 329, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (248711, 329, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (158186, 330, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (144617, 330, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (154372, 330, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (25244, 330, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (58683, 330, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (104918, 331, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (163580, 331, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (99183, 331, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (233400, 332, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (202418, 332, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (126469, 333, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (192984, 333, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (105563, 334, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (20469, 335, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (41309, 336, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (45659, 337, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (125994, 337, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (110121, 337, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (97471, 338, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (78602, 338, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (11923, 339, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (125913, 339, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (27054, 339, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (69883, 339, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (121915, 340, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (104561, 340, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (232115, 340, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (162755, 340, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (176490, 340, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (49100, 341, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (244738, 341, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (190180, 341, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (234851, 342, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (156157, 342, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (135571, 342, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (27654, 342, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (204982, 342, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (127533, 343, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (28545, 344, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (228736, 344, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (59216, 344, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (121298, 344, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (159232, 345, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (125538, 345, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (30357, 345, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (189098, 345, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (54035, 346, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (214496, 346, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (44433, 346, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (58806, 347, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (191377, 348, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (168883, 348, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (54238, 349, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (22192, 349, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (202839, 349, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (234820, 350, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (52099, 350, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (134878, 350, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (202705, 350, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (19589, 351, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (24726, 352, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (30935, 352, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (44691, 352, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (97793, 352, 2025)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (243416, 353, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (222658, 353, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (22836, 353, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (122329, 353, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (139821, 354, 2023)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (211677, 354, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (141019, 354, 2019)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (200359, 355, 2016)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (101930, 355, 2024)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (87245, 355, 2017)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (152525, 355, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (251945, 355, 2015)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (51187, 356, 2022)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (81616, 357, 2020)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (39097, 357, 2018)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (81057, 357, 2021)
+
+INSERT INTO NestsIn (TreeID, BirdID, NestYear)
+VALUES (172526, 357, 2023)
+
