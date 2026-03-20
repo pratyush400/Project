@@ -117,7 +117,7 @@ class ETL:
 
         nestINTable = ["USE tree;\n"]
         for i in range(len(self.year_NestsIn)):
-            temp = f'''INSERT INTO NestsIn (TreeID, BirdID, NestYear){os.linesep}VALUES ({self.tree_NestsIn[i]}, {self.bird_NestsIn[i]}, {self.year_NestsIn[i]}){os.linesep}{os.linesep}'''
+            temp = f'''INSERT INTO NestsIn (TreeID, BirdID, NestYear){os.linesep}VALUES ({self.tree_NestsIn[i]}, {self.bird_NestsIn[i]}, {self.year_NestsIn[i]});{os.linesep}{os.linesep}'''
             nestINTable.append(temp)
         with open('nestInTable.sql', 'w', encoding='utf-8') as f:
                     for item in nestINTable:
